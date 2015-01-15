@@ -11,6 +11,6 @@ sitecollection
 
   lhgDialog是一个功能强大且兼容面广的对话框组件，它拥有精致的界面与友好的接口
   
-3. developers.google.com
+3. https://developers.google.com/
 4. sfew
 
